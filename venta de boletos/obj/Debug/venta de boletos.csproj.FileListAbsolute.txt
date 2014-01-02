@@ -1,0 +1,21 @@
+C:\Users\Alex\AppData\Local\Temporary Projects\venta de boletos\bin\Debug\venta de boletos.exe.config
+C:\Users\Alex\AppData\Local\Temporary Projects\venta de boletos\bin\Debug\venta de boletos.exe
+C:\Users\Alex\AppData\Local\Temporary Projects\venta de boletos\bin\Debug\venta de boletos.pdb
+C:\Users\Alex\AppData\Local\Temporary Projects\venta de boletos\obj\Debug\venta de boletos.csprojResolveAssemblyReference.cache
+C:\Users\Alex\AppData\Local\Temporary Projects\venta de boletos\obj\Debug\venta_de_boletos.Form1.resources
+C:\Users\Alex\AppData\Local\Temporary Projects\venta de boletos\obj\Debug\venta_de_boletos.Properties.Resources.resources
+C:\Users\Alex\AppData\Local\Temporary Projects\venta de boletos\obj\Debug\venta de boletos.csproj.GenerateResource.Cache
+C:\Users\Alex\AppData\Local\Temporary Projects\venta de boletos\obj\Debug\venta de boletos.exe
+C:\Users\Alex\AppData\Local\Temporary Projects\venta de boletos\obj\Debug\venta de boletos.pdb
+E:\Mis Documentos\Projects Visual Studio 2012\Visual C#\venta de boletos\venta de boletos\bin\Debug\venta de boletos.exe.config
+E:\Mis Documentos\Projects Visual Studio 2012\Visual C#\venta de boletos\venta de boletos\obj\Debug\venta de boletos.exe
+E:\Mis Documentos\Projects Visual Studio 2012\Visual C#\venta de boletos\venta de boletos\obj\Debug\venta de boletos.pdb
+E:\Mis Documentos\Projects Visual Studio 2012\Visual C#\venta de boletos\venta de boletos\bin\Debug\venta de boletos.exe
+E:\Mis Documentos\Projects Visual Studio 2012\Visual C#\venta de boletos\venta de boletos\bin\Debug\venta de boletos.pdb
+E:\Mis Documentos\Projects Visual Studio 2012\Visual C#\venta de boletos\venta de boletos\obj\Debug\venta de boletos.csprojResolveAssemblyReference.cache
+E:\Mis Documentos\Projects Visual Studio 2012\Visual C#\venta de boletos\venta de boletos\obj\Debug\venta_de_boletos.Form1.resources
+E:\Mis Documentos\Projects Visual Studio 2012\Visual C#\venta de boletos\venta de boletos\obj\Debug\venta_de_boletos.Properties.Resources.resources
+E:\Mis Documentos\Projects Visual Studio 2012\Visual C#\venta de boletos\venta de boletos\obj\Debug\venta de boletos.csproj.GenerateResource.Cache
+E:\Mis Documentos\Projects Visual Studio 2012\Visual C#\Claces\Forms\AJ Programer\venta de boletos\venta de boletos\bin\Debug\venta de boletos.exe.config
+E:\Mis Documentos\Projects Visual Studio 2012\Visual C#\Claces\Forms\AJ Programer\venta de boletos\venta de boletos\obj\Debug\venta de boletos.exe
+E:\Mis Documentos\Projects Visual Studio 2012\Visual C#\Claces\Forms\AJ Programer\venta de boletos\venta de boletos\obj\Debug\venta de boletos.pdb
